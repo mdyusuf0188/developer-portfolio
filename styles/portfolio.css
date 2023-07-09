@@ -103,7 +103,7 @@ nav a {
 /* main section styles */
 main {
     max-width: 1140px;
-    margin: 0 ;
+    margin: 0 auto;
 }
 /*about section style  */
 .about {
@@ -120,4 +120,11 @@ main {
 
 .about-info {
     text-align: center;
+}
+
+#what-i-do{
+    margin: 30px 150px;
+}
+.skill-container{
+    display: flex;
 }
